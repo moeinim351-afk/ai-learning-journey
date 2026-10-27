@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="AI Learning Journey banner" width="100%" />
+
 # AI Learning Journey
 
-> A work in progress: learning programming, exploring artificial intelligence, and building practical projects one step at a time.
+**A work in progress: learning programming, exploring AI, and building practical projects.**
+
+</div>
 
 ## 🎯 Mission
 
@@ -16,7 +22,7 @@ Document my progress as I learn how software, AI, and robotics can solve useful 
 
 ## 🧪 Projects & Experiments
 
-This repository will collect learning notes, practice exercises, and small experiments as they are completed.
+This repository collects learning notes, practice exercises, and small experiments as they are completed.
 
 For each project, I aim to include:
 - What the project does
